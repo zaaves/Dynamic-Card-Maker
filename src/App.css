@@ -1,0 +1,7 @@
+
+@media (min-width: 868px) {
+    form{
+        display: flex;
+        flex-direction: column;
+    }
+}
